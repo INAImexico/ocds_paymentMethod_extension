@@ -1,0 +1,18 @@
+{
+  "definitions": {
+    "Transaction": {
+      "properties": {
+        "paymentMethod": {
+          "title": "Payment method",
+          "description": "The payment method used to make the transaction. The values of the paymentMethod codelist must be used (https://github.com/INAImexico/ocds_paymentMethod_extension/blob/master/codelists/paymentMethod.csv).",
+          "type": [
+            "string",
+            "null"
+          ],
+          "codelist": "paymentMethod.csv",
+          "openCodelist": true
+        }
+      }
+    }
+  }
+}
