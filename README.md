@@ -23,7 +23,7 @@ The code list will be open and must be defined by:
 
 **Code** | **Title** | **Description**
 --|--|--
-paymentMethod | Payment method | The payment method used to make the transaction. The values of the paymentMethod codelist must be used (https://github.com/INAImexico/ocds_paymentMethod_extension/blob/master/codelists/paymentMethod.csv).
+paymentMethod | Payment method | The payment method used to make the transaction. The values of the [paymentMethod](https://github.com/INAImexico/ocds_paymentMethod_extension/blob/master/codelists/paymentMethod.csv)  codelist must be used.
 cash | Cash | The payment associated with this contract was made through cash.
 check | Check | The payment associated with this contract was made by check.
 wireTransfer | Wire transfer | The payment associated with this contract was made through a bank transfer.
