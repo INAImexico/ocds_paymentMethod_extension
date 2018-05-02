@@ -16,7 +16,7 @@ The code list will be open and must be defined by:
   - Cash
   - Check
   - Wire transfer
-  - Corporate credit card
+  - Corporate card
   - Letter of credit
   
 ## Defining texts:
