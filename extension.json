@@ -1,6 +1,6 @@
 {
   "name": {
-    "en": "Payment Method"
+    "en": "Payment method"
   },
   "description": {
     "en": "The payment method is a data that can be useful to understand the means by which payments associated with a contract are received. In Mexico, from INAI we have this information in our system and its publication is mandatory according to our Freedom to Information Act. See discussion in https://github.com/open-contracting/standard/issues/622"
