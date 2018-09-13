@@ -13,5 +13,8 @@
   },
   "codelists": [
     "paymentMethod.csv"
+  ],
+  "schemas": [
+    "release-schema.json"
   ]
 }
