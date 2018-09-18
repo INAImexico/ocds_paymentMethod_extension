@@ -12,6 +12,9 @@
     "en": "https://github.com/INAImexico/ocds_paymentMethod_extension"
   },
   "codelists": [
-    "paymentMethod.csv",
+    "paymentMethod.csv"
+  ],
+  "schemas": [
+    "release-schema.json"
   ]
 }
